@@ -61,13 +61,13 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['6285945646584']
-global.ownertag = '6285945646584' //ur tag number
+global.owner = ['6287837703726']
+global.ownertag = '6287837703726' //ur tag number
 global.botname = 'Fauzu' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "🗿" //ur menu react emoji
+global.reactmoji = "💦" //ur menu react emoji
 global.themeemoji = "💀" //ur theme emoji
 global.packname = "Dibuat Oleh  " //ur sticker watermark packname
 global.author = "Fauzi" //ur sticker watermark author
